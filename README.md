@@ -24,8 +24,15 @@ Chrome saves tabs when you close the browser but it clears them when you start t
 
 - There is one more option for when you bored searching something on the internet, you can specify the url that you want to open after closing tabs.
 
+## Further
+
+- Usage will be explained with GIF.
+
+- local.storage can be converted to chrome.storage for syncing it with user account.
+
 ## License
 
+[MIT License](LICENSE)
 
 ## Credits
 
@@ -34,3 +41,4 @@ Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik"
 <a href="https://www.flaticon.com/free-icon/runer-silhouette-running-fast_55240?term=running&page=1&position=2">Icon page</a>
 
 <img src="https://image.flaticon.com/icons/svg/55/55240.svg" width="128" height="128"></a>
+
