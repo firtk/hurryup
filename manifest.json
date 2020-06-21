@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "minimum_chrome_version": "35",
+  "icons": { 
+             "128": "images/icon128.png",
+             "48": "images/icon48.png",
+             "16": "images/save.png",
+             "16": "images/load.png"
+  },
+  "browser_action": {
+    "default_icon": "images/save.png"
+  },
+  "background": { "scripts": ["js/hurryup.js"] },
+  "options_page": "html/options.html",
+  "permissions": [ "tabs", "storage", "*://*/*"],
+  "name": "Hurry up!",
+  "version": "1.0",
+  "description": "With one click saves all of your tabs then closes chrome. If you have saved tabs previously, with one click all of them will be recovered. For saving icon will be running right, for loading icon will be running left"
+}
